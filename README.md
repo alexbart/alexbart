@@ -50,21 +50,11 @@ Features include:
 
 ## 👨‍💻 Technical Skills
 
-### Frontend
+## 🛠️ Languages and Tools
 
-React • TypeScript • JavaScript • Redux • Tailwind CSS • HTML5 • CSS3
-
-### Backend
-
-Node.js • Express.js • Laravel • PHP • REST APIs • JWT Authentication
-
-### Databases
-
-MongoDB • PostgreSQL • MySQL • SQL Server
-
-### Tools & Platforms
-
-Git • GitHub • Postman • Docker • Linux • Vercel • Render • Azure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,tailwind,html,css,git,github,postman,docker,linux,vite,redux,nextjs,php,laravel,postgres,mysql" />
+</p>
 
 ---
 
