@@ -14,14 +14,14 @@ Currently, I'm expanding my expertise in TypeScript, cloud deployment, and moder
 
 A modern full-stack e-commerce platform built with:
 
-* React + TypeScript
-* Node.js + Express
-* MongoDB
-* JWT Authentication
-* Stripe Payments
-* Vercel & Render Deployment
+- React + TypeScript
+- Node.js + Express
+- MongoDB
+- JWT Authentication
+- Stripe Payments
+- Vercel & Render Deployment
 
-🔗 Live Demo: https://gomycode-ecommerce-project-final-ch.vercel.app/
+🔗 Live Demo: https://https://the-ecomart.vercel.app/
 
 ### 🏥 Nyumbani Care Telehealth
 
@@ -29,22 +29,22 @@ An investor-ready telehealth platform designed for elderly and palliative care s
 
 Features include:
 
-* Telemedicine consultations
-* Home healthcare coordination
-* Medical equipment rentals
-* Caregiver management
-* Insurance integrations
+- Telemedicine consultations
+- Home healthcare coordination
+- Medical equipment rentals
+- Caregiver management
+- Insurance integrations
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced TypeScript
-* System Design
-* Next.js
-* Docker & DevOps
-* Cloud Infrastructure
-* Payment Integrations
+- Advanced TypeScript
+- System Design
+- Next.js
+- Docker & DevOps
+- Cloud Infrastructure
+- Payment Integrations
 
 ---
 
@@ -60,12 +60,12 @@ Features include:
 
 ## 📚 What I Write About
 
-* Full-Stack Development
-* MERN Stack
-* TypeScript
-* API Development
-* Software Engineering Lessons
-* Building Startups in Africa
+- Full-Stack Development
+- MERN Stack
+- TypeScript
+- API Development
+- Software Engineering Lessons
+- Building Startups in Africa
 
 ✍️ Medium: https://medium.com/@alexbart695
 
@@ -73,11 +73,11 @@ Features include:
 
 ## 🤝 Open to Collaborate On
 
-* MERN Stack Applications
-* SaaS Platforms
-* E-commerce Solutions
-* Open Source Projects
-* Healthcare Technology
+- MERN Stack Applications
+- SaaS Platforms
+- E-commerce Solutions
+- Open Source Projects
+- Healthcare Technology
 
 ---
 
@@ -97,7 +97,6 @@ https://github.com/alexbart
 
 I enjoy transforming business ideas into working software products—from concept and architecture to deployment and scaling.
 
-
 ## 🏆 GitHub Achievements
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=alexbart&theme=algolia&margin-w=15)
@@ -106,7 +105,6 @@ I enjoy transforming business ideas into working software products—from concep
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexbart&theme=react-dark)
 
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=alexbart&show_icons=true&theme=tokyonight)
@@ -114,5 +112,3 @@ I enjoy transforming business ideas into working software products—from concep
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexbart&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbart&layout=compact&theme=tokyonight)
-
-
