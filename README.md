@@ -21,7 +21,7 @@ A modern full-stack e-commerce platform built with:
 - Stripe Payments
 - Vercel & Render Deployment
 
-🔗 Live Demo: https://https://the-ecomart.vercel.app/
+🔗 Live Demo: https://the-ecomart.vercel.app/
 
 ### 🏥 Nyumbani Care Telehealth
 
